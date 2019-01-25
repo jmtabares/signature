@@ -1,0 +1,5 @@
+browser: chrome
+screenshot_directory: reports/screenshots
+screenshot_directory_html: screenshots
+env: localhost:8000
+drivers: config/drivers
