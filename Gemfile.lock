@@ -94,6 +94,3 @@ DEPENDENCIES
   rake
   rspec
   webdriver-user-agent
-
-BUNDLED WITH
-   2.0.1
