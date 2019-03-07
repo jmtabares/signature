@@ -81,3 +81,4 @@ run  "rake default --trace"
            
 **Available tags**           
 @exercise 
+test
